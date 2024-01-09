@@ -1,0 +1,17 @@
+html, body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height:100vh;
+  margin:0;
+}
+
+body h1{
+  font-size:3rem;
+  background: linear-gradient(to top, rgb(75, 75, 75), rgb(158, 157, 157));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+
